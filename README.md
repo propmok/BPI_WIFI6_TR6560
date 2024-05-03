@@ -9,4 +9,4 @@ workaround for this issue was to run make, let it fail, check to see if <build f
 
 this is only required if you need the fullimage.bin because sysupgrade.bin compiles fine
 
-I have included my compiled sysupgrade.bin file with wireguard, adblock and wake on lan options added.
+I have included my compiled sysupgrade.bin file with wireguard, adblock, wake on lan and UPNP options added.
